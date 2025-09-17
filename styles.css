@@ -1,1 +1,56 @@
 /*  your css code here. If applicable */
+/* General page style */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f9f9f9;
+  margin: 20px;
+}
+
+/* Heading style */
+h1 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+/* Image style */
+img {
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+/* Paragraph style */
+p {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+/* List styling */
+ul {
+  list-style-type: square;
+  display: inline-block;
+  text-align: left;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+/* Button style */
+button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
